@@ -1,0 +1,3 @@
+SiteName,Primary,Secondary,vCenter
+CitrixSite1,LABCDC01.lab.local,LABCDC02.lab.local,LABVC01.lab.local
+CitrixSite2,LABCDC03.lab.local,LABCDC04.lab.local,LABVC02.lab.local
