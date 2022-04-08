@@ -1,3 +1,3 @@
 # PowerShell
 
-Misc private collection of my PowerShell scripts.
+Misc collection of my PowerShell scripts.
